@@ -78,7 +78,12 @@ If possible, include a copy of original design files to facilitate easy editing 
 ## Attribution
 The [original design](https://github.com/mwturvey/InteractSwitch) of the Interact Switch was by Mike Turvey.
 
-Modifications to the design and additional documentation by Neil Squire Society /  
+Modifications to the design and additional documentation by Neil Squire Society / Makers Making Change.
+  - Increases the screw hole size in the ButtonCapHolder to accept both M2.5 screws as well as #4 3/8" screws.
+  - Lines up the holes in the base with the holes in the ButtonCapHolder.
+  - Deepens the countersink in the Base for the screws.
+  - Removes the need for supports on the Base piece.
+  - Decreases the required sanding by tapering the tabs on the ButtonCapHolder.  
 
 
 
@@ -93,7 +98,6 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
  - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
  - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
  - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
