@@ -1,0 +1,9 @@
+Version 2.0 | 2023-Sep-30
+ - CAD design was recreated in Fusion 360
+
+Version 1.0 | 2020-mmm-DD
+ - Initial Design by Michael Turvey, CC-BY
+
+
+
+
