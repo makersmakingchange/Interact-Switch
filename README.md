@@ -9,9 +9,9 @@ The Interact Switch is an open source assistive switch. The switch is comprised 
 
 There are a wide array of different designs: from a simple flat button, to textured designs, to a dome, and even some wobble switch variants.
 
-The switch base incorporates 6 slots that are ideal for a variety of mounting options, including using hook and loop straps (e.g., Velcro). The overall cost of materials is about $8 (plus $8 for component shipping).
+The switch base incorporates 6 slots that are ideal for a variety of mounting options, including using hook and loop straps (e.g., VELCRO). The overall cost of materials is about $8 (plus $8 for component shipping).
 
-<img src="Photos/Interact-Switch.jpg" width="500" alt="3D printed Interact Switch">
+<img src="Photos/Interact_Switch.jpg" width="500" alt="3D printed Interact Switch with smiley topper">
 
 ## More info at
 - [Makers Making Change Library Page](https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA)
@@ -34,12 +34,12 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read through the Maker Guide
 
-The Maker Guide ([EN](/Documentation/Interact_Switch_Maker_Guide.pdf),[FR](/Documentation/FR_Interact_Switch_Maker_Guide.pdf))  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The Maker Guide (WIP) <!---([EN](/Documentation/Interact_Switch_Maker_Guide.pdf),[FR](/Documentation/FR_Interact_Switch_Maker_Guide.pdf)) --->  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Interact_Switch_BOM.xlsx) lists all of the parts and components required to build the Open Wobble Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The Bill of Materials (WIP) <!--- (/Documentation/Interact_Switch_BOM.xlsx) ---> lists all of the parts and components required to build the Interact Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
 
 
 ### 3. Print the 3D Printable components
@@ -57,11 +57,11 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/Device-Name_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [DeviceName_Maker_Checklist](/Documentation/Device-Name_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Device-Name_BOM.xlsx)     |
-| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Device-Name_Quick_Guide.pdf)    |
-| Changelog            | 1.0     | [DeviceName_Changelog](CHANGES.txt)     |
+| Design Rationale     | 1.0     | WIP <!--- [DeviceName_Design_Rationale](/Documentation/Device-Name_Design_Rationale.pdf) --->     |
+| Maker Guide          | 1.0     | WIP <!--- [DeviceName_Maker_Checklist](/Documentation/Device-Name_Maker_Guide.pdf)  --->   |
+| Bill of Materials    | 1.0     | WIP <!--- [DeviceName_Bill_of_Materials](/Documentation/Device-Name_BOM.xlsx)   --->  |
+| User Guide           | 1.0     | WIP <!--- [DeviceName_User_Guide](/Documentation/Device-Name_Quick_Guide.pdf)   ---> |
+| Changelog            | 1.0     | WIP <!--- [DeviceName_Changelog](CHANGES.txt)     |
 
 ### Design Files
 <!---
