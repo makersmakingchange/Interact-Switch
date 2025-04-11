@@ -1,9 +1,5 @@
  # Interact Switch
-
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- --->
+<!---  SUMMARY A brief summary of the project. What it does, who it is for, how much it costs. --->
 
 The Interact Switch is an open source assistive switch. The switch is comprised of 3D printed parts and off-the-shelf electronics. The Interact Switch is a high quality, modular 3D printable switch design. The tactile feel of the switch is on par with commercial switches, coming in at about 35 g of activation force across the surface of the switch. The base has the same footprint as a Jellybean switch, and should work with any Jellybean switch mounts.
 
@@ -64,16 +60,11 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Changelog            | 1.0     | WIP <!--- [DeviceName_Changelog](CHANGES.txt)     |
 
 ### Design Files
-<!---
-DESIGN FILES
-If possible, include a copy of original design files to facilitate easy editing and customization.
---->
+<!--- DESIGN FILES If possible, include a copy of original design files to facilitate easy editing and customization. --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing)
-
-
 
 ## Attribution
 The [original design](https://github.com/mwturvey/InteractSwitch) of the Interact Switch was by Mike Turvey.
@@ -89,6 +80,7 @@ Modifications to the design and additional documentation by Neil Squire Society 
 
 ---
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -106,3 +98,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
