@@ -40,7 +40,7 @@ The Bill of Materials (WIP) <!--- (/Documentation/Interact_Switch_BOM.xlsx) --->
 
 ### 3. Print the 3D Printable components
 
-All of the individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 4. Assemble the <Device-Name>
 
@@ -64,7 +64,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
  - [CAD Files](/Design_Files/CAD_Design_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
 The [original design](https://github.com/mwturvey/InteractSwitch) of the Interact Switch was by Mike Turvey.
