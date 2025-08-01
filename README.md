@@ -1,13 +1,13 @@
  # Interact Switch
 <!---  SUMMARY A brief summary of the project. What it does, who it is for, how much it costs. --->
 
-The Interact Switch is an open source assistive switch. The switch is comprised of 3D printed parts and off-the-shelf electronics. The Interact Switch is a high quality, modular 3D printable switch design. The tactile feel of the switch is on par with commercial switches, coming in at about 35 g of activation force across the surface of the switch. The base has the same footprint as a Jellybean switch, and should work with any Jellybean switch mounts.
+The Interact Switch is an open source assistive switch. The switch is comprised of 3D printed parts and off-the-shelf electronics. The Interact Switch is a high quality, modular 3D printable switch design. The tactile feel of the switch is on par with commercial switches, coming in at about 35 gf of activation force across the surface of the switch. The base has the same footprint as a Jellybean switch, and should work with any Jellybean switch mounts.
 
 There are a wide array of different designs: from a simple flat button, to textured designs, to a dome, and even some wobble switch variants.
 
 The switch base incorporates 6 slots that are ideal for a variety of mounting options, including using hook and loop straps (e.g., VELCRO). The overall cost of materials is about $8 (plus $8 for component shipping).
 
-<img src="Photos/Interact_Switch.jpg" width="500" alt="3D printed Interact Switch with smiley topper">
+<img src="Photos/Interact_Switch.jpg" width="500" alt="A 3D printed Interact Switch with smiley topper">
 
 ## More info at
 - [Makers Making Change Library Page](https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA)
@@ -53,11 +53,12 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Interact_Switch_Design_Rationale](/Documentation/Interact_Switch_Design_Rationale.pdf)      |
-| Maker Guide          | 1.0     | [Interact_Switch_Maker_Checklist](/Documentation/Interact_Switch_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [Interact_Switch_Bill_of_Materials](/Documentation/Interact_Switch_BOM.csv)   |
-| User Guide           | 1.0     | [Interact_Switch_User_Guide](/Documentation/Interact_Switch_Quick_Guide.pdf)   |
-| Changelog            | 1.0     | [Interact_Switch_Changelog](CHANGES.txt)     |
+| Design Rationale     | 2.0     | [Interact_Switch_Design_Rationale](/Documentation/Interact_Switch_Design_Rationale.pdf)    |
+| Maker Guide          | 2.0     | [Interact_Switch_Maker_Checklist](/Documentation/Interact_Switch_Maker_Guide.pdf)          |
+| Topper Guide         | 2.0     | [Interact Switch Topper Guide](/Documentation/Interact_Switch_Topper_Guide.pdf)            |
+| Bill of Materials    | 2.0     | [Interact_Switch_Bill_of_Materials](/Documentation/Interact_Switch_BOM.csv)                |
+| User Guide           | 2.0     | [Interact_Switch_User_Guide](/Documentation/Interact_Switch_Quick_Guide.pdf)               |
+| Changelog            | 2.0     | [Interact_Switch_Changelog](CHANGES.txt)     |
 
 ### Design Files
 <!--- DESIGN FILES If possible, include a copy of original design files to facilitate easy editing and customization. --->
@@ -78,7 +79,11 @@ Modifications to the design and additional documentation by Neil Squire Society 
 
 Because of the modifications made to the base and button cap holder to accomodate the #4 screws, they are no longer backwards compatible with the original files and is not longer compatible with M2.5 screws.
 
-
+### Contributors
+ - Mike Turvey
+ - Stephen Moyer. Neil Squire Society.
+ - Brad Wellington. Neil Squire Society.
+ - Jake McIvor. Neil Squire Society.
 ---
 
 <!-- ABOUT MMC START -->
