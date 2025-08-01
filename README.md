@@ -30,12 +30,12 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read through the Maker Guide
 
-The Maker Guide (WIP) <!---([EN](/Documentation/Interact_Switch_Maker_Guide.pdf),[FR](/Documentation/FR_Interact_Switch_Maker_Guide.pdf)) --->  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The Maker Guide  [EN](/Documentation/Interact_Switch_Maker_Guide.pdf), WIP <!---([FR](/Documentation/FR_Interact_Switch_Maker_Guide.pdf)) --->  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The Bill of Materials (WIP) <!--- (/Documentation/Interact_Switch_BOM.xlsx) ---> lists all of the parts and components required to build the Interact Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The [Bill of Materials](/Documentation/Interact_Switch_BOM.csv) lists all of the parts and components required to build the Interact Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
 
 
 ### 3. Print the 3D Printable components
@@ -44,7 +44,7 @@ All of the individual print files can be found in the [/Build_Files/3D_Printing_
 
 ### 4. Assemble the <Device-Name>
 
-Reference the Assembly Guide([EN](/Documentation/Interact_Switch_Assembly_Guide.pdf),[FR](/Documentation/FR_Interact_Switch_Assembly_Guide.pdf)) for the tools and steps required to build each portion.
+Reference the Assembly Guide([EN](/Documentation/Interact_Switch_Maker_Guide.pdf),[FR](/Documentation/FR_Interact_Switch_Assembly_Guide.pdf)) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -53,11 +53,11 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | WIP <!--- [DeviceName_Design_Rationale](/Documentation/Device-Name_Design_Rationale.pdf) --->     |
-| Maker Guide          | 1.0     | WIP <!--- [DeviceName_Maker_Checklist](/Documentation/Device-Name_Maker_Guide.pdf)  --->   |
-| Bill of Materials    | 1.0     | WIP <!--- [DeviceName_Bill_of_Materials](/Documentation/Device-Name_BOM.xlsx)   --->  |
-| User Guide           | 1.0     | WIP <!--- [DeviceName_User_Guide](/Documentation/Device-Name_Quick_Guide.pdf)   ---> |
-| Changelog            | 1.0     | WIP <!--- [DeviceName_Changelog](CHANGES.txt)     |
+| Design Rationale     | 1.0     | [Interact_Switch_Design_Rationale](/Documentation/Interact_Switch_Design_Rationale.pdf)      |
+| Maker Guide          | 1.0     | [Interact_Switch_Maker_Checklist](/Documentation/Interact_Switch_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [Interact_Switch_Bill_of_Materials](/Documentation/Interact_Switch_BOM.csv)   |
+| User Guide           | 1.0     | [Interact_Switch_User_Guide](/Documentation/Interact_Switch_Quick_Guide.pdf)   |
+| Changelog            | 1.0     | [Interact_Switch_Changelog](CHANGES.txt)     |
 
 ### Design Files
 <!--- DESIGN FILES If possible, include a copy of original design files to facilitate easy editing and customization. --->
@@ -70,12 +70,13 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 The [original design](https://github.com/mwturvey/InteractSwitch) of the Interact Switch was by Mike Turvey.
 
 Modifications to the design and additional documentation by Neil Squire Society / Makers Making Change.
-  - Increases the screw hole size in the ButtonCapHolder to accept both M2.5 screws as well as #4 3/8" screws.
+  - Increases the screw hole size in the ButtonCapHolder to accept #4 3/8" screws instead of M2.5 screws.
   - Lines up the holes in the base with the holes in the ButtonCapHolder.
   - Deepens the countersink in the Base for the screws.
   - Removes the need for supports on the Base piece.
   - Decreases the required sanding by tapering the tabs on the ButtonCapHolder.  
 
+Because of the modifications made to the base and button cap holder to accomodate the #4 screws, they are no longer backwards compatible with the original files and is not longer compatible with M2.5 screws.
 
 
 ---

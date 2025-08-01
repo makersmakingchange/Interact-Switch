@@ -1,4 +1,9 @@
-Version 2.0 | 2023-Sep-30
+Version 2.0 | 2025-July-08
+ - Documentation was updated using OpenAT documentation standard
+ - Changes were made to base and button cap holder to work better with #4 screws, but makes them no longer compatible with M2.5 screws.
+ - Changes were made to the plain cap to improve printing on the top face
+
+Version 1.1 | 2023-Sep-30
  - CAD design was recreated in Fusion 360
 
 Version 1.0 | 2020-mmm-DD
