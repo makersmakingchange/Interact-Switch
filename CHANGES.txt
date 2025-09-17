@@ -1,3 +1,9 @@
+Version 2.1 | 2025-Aug-31
+ - Rebuilt CAD files in one repository
+ - Solved a number of issues with poor fits between components
+ - Parameterized files to make changes easier
+ - Made alternate toppers and inserts derived designs so changes to the base part propagate to all the modified versions 
+
 Version 2.0 | 2025-July-08
  - Documentation was updated using OpenAT documentation standard
  - Changes were made to base and button cap holder to work better with #4 screws, but makes them no longer compatible with M2.5 screws.
