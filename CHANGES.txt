@@ -1,3 +1,7 @@
+Version 2.0.2 | 2025-Dec-12
+- CAD changes to Button Cap Holder
+ - removed edge causing cap to bind.
+
 Version 2.0.1 | 2025-10-28
  - CAD changes to Base
    - increased clearance to better accommodate micro switch
